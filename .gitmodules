@@ -1,0 +1,3 @@
+[submodule "PreciseTimer"]
+	path = PreciseTimer
+	url = https://github.com/heptagonhust/PreciseTimer.git
