@@ -42,3 +42,9 @@ struct OutputAccessOrInitLock{
 
 # only one thread using the resouces
 If it is only one thread shall use the resouces, simple spin lock would works fine.
+# spinlock vs mutex
+https://www.realworldtech.com/forum/?threadid=189711&curpostid=189723
+
+https://rigtorp.se/spinlock/
+
+https://probablydance.com/2019/12/30/measuring-mutexes-spinlocks-and-how-bad-the-linux-scheduler-really-is/
