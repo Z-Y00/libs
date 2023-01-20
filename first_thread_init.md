@@ -39,3 +39,6 @@ struct OutputAccessOrInitLock{
       printf("no wait this %p\n",this);
   }
 ```
+
+# only one thread using the resouces
+If it is only one thread shall use the resouces, simple spin lock would works fine.
